@@ -20,5 +20,5 @@ Final year student[B.E-CSE] @Panimalar institute of Technology
 ### 💻 Workspace Spec
  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/NikeshkumarUdhayakumar?theme=dark&font=Anek%20Tamil&ext=contest)
+![Leetcode Stats]()
 
